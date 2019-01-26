@@ -1,7 +1,7 @@
-litecoin-seeder
+betchip-seeder
 ===============
 
-Litecoin-seeder is a crawler for the Litecoin network, which exposes a list
+Betchip-seeder is a crawler for the Betchip network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
